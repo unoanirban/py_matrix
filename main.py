@@ -1,0 +1,2 @@
+import matcalc
+matcalc.main()
